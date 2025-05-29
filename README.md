@@ -124,6 +124,6 @@
 # <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
 <div width="100vw" align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frederickgodiva&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="frederickgodiva" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frederickgodiva&show_icons=true&theme=tokyonight&locale=en" alt="frederickgodiva" /></p>
+  <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=frederickgodiva&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="frederickgodiva" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=frederickgodiva&show_icons=true&theme=tokyonight&locale=en" alt="frederickgodiva" /></p>
 </div>
